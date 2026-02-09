@@ -17,4 +17,4 @@ Este projeto é uma página de menu para um restaurante fictício, desenvolvida 
 ## 🚀 Como visualizar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/restaurante-menu.git
+   git clone https://github.com/Thalyttanog/restaurante-menu.git
